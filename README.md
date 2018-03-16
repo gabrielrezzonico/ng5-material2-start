@@ -1,6 +1,8 @@
 # Ng5Material2Start
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+This is a minimal Angular 5 + Angular Material 2 project. It was generated using angular cli and the Angular Material started guide (https://material.angular.io/guide/getting-started)
+
+![](Ng5Material2Start.png?raw=true)
 
 ## Development server
 
